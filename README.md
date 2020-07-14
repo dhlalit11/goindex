@@ -9,8 +9,8 @@ Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and
 `index.js` is the content of the Workers script.  
 
 ## Demo
-Here's the link to [Classic](classic.fwilso.workers.dev) Index.
-Here's the link to  [Material](material.fwilso.workers.dev) Index.
+Here's the link to [Classic](http://classic.fwilso.workers.dev) Index Sample.
+Here's the link to  [Material](http://material.fwilso.workers.dev) Index Sample.
 
 ## Deployment  
 1.Install `rclone` software locally  
