@@ -2,21 +2,21 @@
 document.write(
   '<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mdui@0.4.3/dist/css/mdui.min.css">'
 );
-// APlayer 支持
+// APlayer
 document.write(
   '<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">'
 );
 document.write(
   '<script src="//cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>'
 );
-// dplayer 支持
+// dplayer
 document.write(
   '<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/dplayer@1.25.0/dist/DPlayer.min.css">'
 );
 document.write(
   '<script src="//cdn.jsdelivr.net/npm/dplayer@1.25.1/dist/DPlayer.min.js"></script>'
 );
-// markdown支持
+// markdown
 document.write(
   '<script src="//cdn.jsdelivr.net/npm/markdown-it@10.0.0/dist/markdown-it.min.js"></script>'
 );
