@@ -8,8 +8,9 @@ Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and
 ## Huge Thanks to [Donwa](https://github.com/donwa) for making this index
 `index.js` is the content of the Workers script.  
 
-## Demo  
-Not yet... Will update a demo soon
+## Demo
+Here's the link to [Classic](classic.fwilso.workers.dev) Index.
+Here's the link to  [Material](material.fwilso.workers.dev) Index.
 
 ## Deployment  
 1.Install `rclone` software locally  
